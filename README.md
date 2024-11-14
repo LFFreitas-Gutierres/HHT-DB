@@ -16,10 +16,10 @@ Each case study may contain $n$ sets of records. For instance, measurements for 
 
 Each subfolder organizes inspection data and records into the following directories:
 - Photos: Photographic records of the inspection.
-- Report: Automatically generated reports from the Sonotec-Sonaphone III (DataSuite V).
+- Report: Automatically generated reports from the [Sonotec-Sonaphone III](https://www.sonotec.eu/en/products/preventive-maintenance/ultrasonic-testing-devices/sonaphone/) ([DataSuite](https://www.sonotec.eu/en/products/preventive-maintenance/software/datasuite/)).
 - SoundRecordings: Audio recordings captured alongside each ultrasonic signature.
-- ThermographicImages: Thermographic images acquired using the Fluke Ti25.
-- UltrasonicSignatures: Ultrasonic signatures recorded with the Sonotec-Sonaphone III coupled with the Sonotec-BS30 parabolic sensor.
+- ThermographicImages: Thermographic images acquired using the [Fluke Ti25](https://www.fluke.com/en-us/product/thermal-cameras/ti25).
+- UltrasonicSignatures: Ultrasonic signatures recorded with the [Sonotec-Sonaphone III](https://www.sonotec.eu/en/products/preventive-maintenance/ultrasonic-testing-devices/sonaphone/) coupled with the [Sonotec-BS30](https://www.sonotec.eu/en/products/preventive-maintenance/ultrasonic-testing-devices/sonaphone/sensoren/bs30/) parabolic sensor.
 
 The figure below illustrates the database structure, highlighting the files contained in subfolder 01 of the case study for the insulator string, phase A (IS-PhaseA).
 
