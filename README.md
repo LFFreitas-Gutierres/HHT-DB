@@ -25,6 +25,8 @@ The figure below illustrates the database structure, highlighting the files cont
 
 ![](HHT-DB-Schema.png "HHT-DB schema")
 
+**HHT-DB** also [provides](https://github.com/LFFreitas-Gutierres/HHT-DB/tree/main/TestObjectDesigns) the designs of the test devices used in the Finite Element Method Magnetics (FEMM, version 4.2) simulations presented in the article, including a tip-flat system and an insulator string.
+
 ---
 
 *Corresponding author:* [Prof. Dr. Luiz F. Freitas-Gutierres](https://www.linkedin.com/in/lffreitas-gutierres/) ([luiz.gutierres@ufsm.br](mailto:luiz.gutierres@ufsm.br)).
